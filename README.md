@@ -5,3 +5,4 @@
 4. The kth Factor of n
 5. Can Place Flowers
 6. Populating Next Right Pointers in Each Node II
+7. Spiral Matrix II
