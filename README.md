@@ -16,3 +16,4 @@
 15. Squares of a Sorted Array
 16. Validate Binary Search Tree
 17. 4Sum II
+18. Increasing Triplet Subsequence
