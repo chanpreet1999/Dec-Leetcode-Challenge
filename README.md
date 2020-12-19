@@ -14,3 +14,4 @@
 13. Burst Balloons
 14. Palindrome Partitioning
 15. Squares of a Sorted Array
+16. Validate Binary Search Tree
