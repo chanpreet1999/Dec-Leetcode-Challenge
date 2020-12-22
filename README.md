@@ -18,3 +18,4 @@
 17. 4Sum II
 18. Increasing Triplet Subsequence
 19. Cherry Pickup II
+20. Decoded String at Index
