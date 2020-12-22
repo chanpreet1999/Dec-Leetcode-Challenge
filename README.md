@@ -19,3 +19,4 @@
 18. Increasing Triplet Subsequence
 19. Cherry Pickup II
 20. Decoded String at Index
+21. Smallest Range II
