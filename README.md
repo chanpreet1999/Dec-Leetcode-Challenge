@@ -21,3 +21,4 @@
 20. Decoded String at Index
 21. Smallest Range II
 22. Balanced Binary Tree
+23. Next Greater Element III
