@@ -29,3 +29,4 @@
 28. Reach a Number
 29. Pseudo-Palindromic Paths in a Binary Tree
 30. Game of Life
+31. Largest Rectangle in Histogram
