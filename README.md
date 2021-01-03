@@ -28,3 +28,4 @@
 27. Jump Game IV
 28. Reach a Number
 29. Pseudo-Palindromic Paths in a Binary Tree
+30. Game of Life
