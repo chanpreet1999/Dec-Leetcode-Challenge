@@ -26,3 +26,4 @@
 25. Diagonal Traverse
 26. Decode Ways
 27. Jump Game IV
+28. Reach a Number
